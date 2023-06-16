@@ -1,5 +1,8 @@
 ### Olá sou o "Salsa" 👋
-
+<img
+    src="https://i.imgur.com/1ZvVkDc.gif" 
+    alt="mario coding"
+/>
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoSalsa&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSalsa&layout=compact&langs_count=16&theme=great-gatsby"/>
