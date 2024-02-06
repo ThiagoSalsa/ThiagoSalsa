@@ -11,7 +11,6 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-      ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
     <img align="left" height="250" alt="coding-time" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
