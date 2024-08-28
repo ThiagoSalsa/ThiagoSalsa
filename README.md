@@ -22,7 +22,7 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: thiagoluis@unipam.edu.br">
+    <a href = "mailto: thiagotrigueiro16@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/thiagosalsa/">
